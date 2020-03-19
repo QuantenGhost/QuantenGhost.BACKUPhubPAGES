@@ -1,0 +1,209 @@
+If you're interested in verifying my digital signatures or securely communicating with me, information about my public keys have been posted at https://github.com/QuantenGhost/quanten-ghost-identity/blob/master/keys.md
+https://keybase.io/QuantenGhost
+https://keybase.io/quantenghost/pgp_keys.asc
+
+
+#QuantenGhost's Public PGP Keys
+
+The **PGP cryptographic keys** here serve to verify signed communications representing the online identify known as  QuantenGhost. Predominant services for these keys are available:
+
+- Encrypted Messaging:   https://keybase.io/QuantenGhost
+- Encrypted Mail:        QuantenGhost@protonmail.com
+
+## Public PGP Keys
+I presently have three public PGP keys for use with various services. They may be used to send me encrypted messages:
+
+   * [keybase.io](#keybaseio)
+   * [protonmail](#proton-mail)
+   * [pm.me](#pmme)
+
+## Social Use Only
+The online presence of **QuantenGhost** is exclusively social and personal in nature. I normally hold few vehimently confidential communications electronically. However, please accept the additional public keys below as an oportunity to communicate privately with me at your descretion.
+
+## Public Reminder Channels
+I may not respond as promptly to the privacy-enabled channels as I do the more widely adopted messaging and mail products. I use an exceptionally large array of communication mediums. If you opt to message me via Keybase or ProtonMail free encourage to message me mentioning that I should check my secure messages.
+
+- Gmail:    q.ghost.contact@gmail.com
+- Twitter:  [@QuantenGhost](https://twitter.com/QuantenGhost/)
+
+
+
+# Public Encryption Keys 
+
+## Keybase.io
+Public PGP for singning Keybase.io communication https://keybase.io/QuantenGhost
+ - Algorithm:    `RSA (4096)`
+ - Fingerprint:  `35DF5867F35E5D5BBA4E4666988E344F25925E39`
+ - Raw Public Key: https://keybase.io/quantenghost/pgp_keys.asc
+
+## Import my Public Key for you gpg keychain
+```
+# curl + gpg pro tip: import quantenghost's keys
+curl https://keybase.io/quantenghost/pgp_keys.asc | gpg --import
+```
+
+## The Public Key
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: https://keybase.io/download
+Version: Keybase Go 4.4.2 (darwin)
+
+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
+=lvXd
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+## Proton Mail
+Public PGP for ProtonMail communication via QuantenGhost@protonmail.com
+ - Algorithm:    `RSA (2048)`
+ - Fingerprint:  `d600a40c1d5b71497d1011bb9ca2f9d6b3ec5bc4`
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: OpenPGP.js v4.4.6
+Comment: https://openpgpjs.org
+
+xsBNBFxUrsgBCADHXH7wS3CPArnlZFH3rXmlJF2s3yZTGOPJ6hHE8+aVDMxR
+C0dMN8nlnnKXlOuauUhjnGbhM0OXlfNhnZSVWfXKBIJb1X7K5pm+RYN6hHbP
+FHuj2O0nuZxHe5N0eJeAJ5Gr5pi3O3FzVhvDVN4ddzhmOGPCcKT1mxGR5KKm
+AqRxv81XBOX1Fa/ZRN7IkPtEKzfGaw0g281jV2sRqSg9PQN9semjEdENLmXJ
+RNKtppEbp33ZzhhTFqq+xy5Zk3xy+pyQfXw9ZllBpQU0jD2gm+k9WnE7sNlo
+FjWnzlhOi31nQ3cJe9YfnzEa3xKdxENT85NT2lix0N1OncsIzV17hJBfABEB
+AAHNOyJRdWFudGVuR2hvc3RAcHJvdG9ubWFpbC5jb20iIDxRdWFudGVuR2hv
+c3RAcHJvdG9ubWFpbC5jb20+wsB1BBABCAAfBQJcVK7IBgsJBwgDAgQVCAoC
+AxYCAQIZAQIbAwIeAQAKCRCcovnWs+xbxEAJCAC0OyyoWpQb5857e+WNt30+
+IJAebc6vL4y36wM3G10zeNTIaIasTMXW7YqWgwzRydRCT7qtrRZxJdajvDv5
+OZnMo8KnT09JSutqjqVcQeQhX74PE0kTlA4IMnsy8LTYWXri1r+RYXZ0PHhA
+wtCLVpreLcOKnmudLRRT3n5wlZvu0N1ot08tCaoXsGzWjRAFiD/YRGx28V04
+fU8qUGBNz0kxT9HY15rDvfrQz5VtywbL+8jBO+EgckFO6ImYvWGGisPmx20C
+Ez/JR/KEMNIAfqLYv3Tbn5QLOZPAgEsluS6T0JTDeXhtkKyaH4AZslG5Sua3
+J7TBewTqupi+l2q3gJm8zsBNBFxUrsgBCADSv5tiDQzvvIP+iffxIYQsBXeQ
+J94dK+o96WrKlxEYYQ3i+S6kT8e9+7NCm4CYz/q4fBrVgrFiMBBiX2M2TfZh
+/dIN/zVk11MJSNbrrQVjN59jDSWsYH0LoBbbc528mQPa90+YMySEaXXJHpaA
+U9lpk0BpP5gJCTzw4mTUVoMCdiwYm74PRDO22sk6xlzye2AVcBiONkyp5ovP
+1Wr6LQ+Ny0/uM2rBGtBUrJIdSrEBtzRtxCH3nvOCbTKtRc6VAjHQpdAZ6apd
+O8wJhQrza6DRwmaqqIfesvZdBlU3S5WXbXap9aNqRW7esUq+CbzRj0FdvUcv
+DMAMSjm5F2GtibI9ABEBAAHCwF8EGAEIAAkFAlxUrsgCGwwACgkQnKL51rPs
+W8T71wf/R9PKLDWBhDYtpCQS7rkG4ChR0sgWu+ZFjcJY0qRIHjp5pKD6746R
+0bAyiChtudxiFY1M4nyGP5bpzE55MyVx6DFZIsL+PxycjxM/UQplr1tOS6e6
+6KRGO3TTzL8LjwpxjQ6aJXgcKuKIFru6yHs3AahyCWGTd5+wyv2+NhaxoRKB
+/qjgEExjSvGGaLCgCp2iMeEGEe+Wv9ISXVIBzPFwwQ7LoG23aeBWNsDUJOOX
+WSCmo6g6YC2WP9wVnmOHQc0TNST3PEme2qhoav8jOxKrFfiy+1KpzClVoeVp
+XCz4Aw/j27DKToOcIS0KCeHAeHApaMoxmNptfrfynu6M5S+2xg==
+=+a7y
+-----END PGP PUBLIC KEY BLOCK-----
+```
+</details>
+
+## pm.me
+Public PGP for pm.me (a Proton Mail alias) communication via QuantenGhost@pm.me
+ - Algorithm:    `RSA (2048)`
+ - Fingerprint:  `58d83f77df56382dc89411f3a06555d5b33a7085`
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: OpenPGP.js v4.4.6
+Comment: https://openpgpjs.org
+
+xsBNBFx0mfwBCADA33QTkoDC4sGtf4PVjg3FzQE4s+4QQOB2HFp0QiclCp0d
+u6mrK61BhTFU4gj6kxqg/Qg9wEBWVp00YBM2CnTUUsyH3WOgoB9bA9Hv7FIE
+yzEvq9DIsWnIYjhmdnch6HIdGiZHz+ieEl0l+EHCO4Q3ReHF38Z2WLhIz2Au
+aQYpdBzHp0GKZJZb7da32s9TuY/nYXe1vlkQkVeVa0juULGLVjD9GZnAy9E5
+7PsUejHm0zOfvmc06JLtmWFSV/rE6+sb5e3lljJ/Ie2ks5iqjo3fmQgnxr+q
+4Fpk+VJg7pTLhq+M/96gJkln3x+LUQjp03lL3/ByniNnnuIz0Ro4pyAnABEB
+AAHNKSJRdWFudGVuR2hvc3RAcG0ubWUiIDxRdWFudGVuR2hvc3RAcG0ubWU+
+wsB1BBABCAAfBQJcdJn8BgsJBwgDAgQVCAoCAxYCAQIZAQIbAwIeAQAKCRCg
+ZVXVszpwhYFXB/0fdkrSeom7kwvU670VLC4FcGRNjREarxJmnX77oATRSHO/
+mAj0S7NZQIWVS9yQwUJcntD2cK+WTFgpI+78JY5eFVTbHtkbPcpcl62QNC9U
+J8pu4sEVy8fJa6nOaIOnofoH3Zod9lGGk/2Zflwa2EGDIco6oG4aRa6NAuQn
+LTpowt4cq2etMohPhId8JA8+JiN+bh3yUoATuuJnl5I38EM24eYms1WbD8zg
+f48otFIe5nijwhQmeqpKIzU0AGhDRb3Q1Tl9EK90Ri4winXaQEC18KkushG4
+GcfumShDUdvS4ei9c5kO/rdBxQkVm1xxAeCGzcMznlrPOVSDLOSSSyFozsBN
+BFx0mfwBCADX43E9cOCYo8ifQ12aXvZdAYpLM5x0HRUeCUS0KxYE3L2u6NEH
+4uA1UZDqyw9cUsLNhAbiaOjuo1CbRtcEWSTgv89Ln/sfGZSe5Hm80I38aNZx
+BKzE/0Tlw4EcwydJ+wpjEUuDkTZolsTAUH3ym4Kjo1YE6yweQCPM3vnjrOnB
+GMdCjLMeHVuQWfowPokZHzeUnQFBrJotdBHKM+FNxgwJM9Y2eGVWhVOZlQSq
+iDID+57sAa8bSgdnJ74pAtdtz6G5bASgoT3luAD9CxPUqvPl7vR4iT6WCr71
+0WFEGzh1py5uP3t7M16h+peAxWd0bcBvx//K0Mx+eQog+xFHXsHhABEBAAHC
+wF8EGAEIAAkFAlx0mfwCGwwACgkQoGVV1bM6cIVdaAf+KSD2AwxIXQTv0wZ8
+ElnUG3XCw6vL+5GfFlgCVrL00FkxlRtAQFKBGgTsgwz9rrTxRfDLRVbt8GzL
+u0b+jfmvhJeBTUp67yAc7KVKc8LVpPj8uSk0l17kSiTL9cwnkKqN1yor6MfI
+k7rSt8+xF0h3wg+KGQdy0TMK4wYeEv4p50B7aw40oD8j99Y67dvgJN4QPeBy
+3wi0RW2Valnh2yd+W+TU4ySq50iUWL1ojXubicOtgmKqpNiBzW3479f287Jx
+8lahfqHcMtjRa1UyXYqqQdvqmznJem0V1w6P0Ldu1T62zsKBAQeBnnbuVRUb
+iXZPmOWSay57iUfXopkV9wvrDA==
+=Pb3T
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
